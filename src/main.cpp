@@ -1,5 +1,6 @@
 /* 
-  Configuração do RTC Watchdog                                 22.12.2023
+  Configuração do RTC Watchdog                                 28.12.2023
+  por R&M Company
 
   Retorna => rst:0x10 (RTCWDT_RTC_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
              se digitar algo na serial trava, em 9 segundos reseta
