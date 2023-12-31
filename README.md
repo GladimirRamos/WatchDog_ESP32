@@ -1,4 +1,4 @@
-Ativa o WatchDog RTC no ESP32
+#WatchDog RTC no ESP32
 
 * quando digitar algo na serial não zera o timer do watchdog -> rtc_wdt_feed(); 
 
